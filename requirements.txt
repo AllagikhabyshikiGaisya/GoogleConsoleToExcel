@@ -1,0 +1,5 @@
+google-analytics-data
+pandas
+gspread
+gspread-dataframe
+oauth2client
