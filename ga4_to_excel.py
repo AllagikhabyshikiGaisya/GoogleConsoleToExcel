@@ -349,7 +349,7 @@ def main():
         import traceback
         traceback.print_exc()
 
-# For continuous sync (optional)
+# For continuous sync (optional)hh
 def continuous_sync(interval_minutes: int = 60):
     """Run sync continuously at specified intervals"""
     logger.info(f"🔄 Starting continuous sync every {interval_minutes} minutes")
